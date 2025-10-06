@@ -1,0 +1,32 @@
+body {
+    
+}
+.stationName {
+    font-size: 1.5em;
+    font-weight: bold;
+}
+.address {
+    font-size: 1.2em;
+    color: #555;
+}
+.app {
+    display:flex;
+    align-items:center;
+    justify-content:center;
+}
+.grid {
+    display:grid;
+    align-items: center;
+    justify-content: center;
+    align-self: center;
+    border:1px solid black;
+}
+
+.cell {
+    border:1px solid black;
+    width:100px;
+    height:100px;
+    display:flex;
+    align-items: center;
+    justify-content: center;
+}

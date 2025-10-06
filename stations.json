@@ -1,0 +1,14 @@
+[
+    {
+        "name":"test station 1",
+        "gridX": 10,
+        "gridY": 5,
+        "panelLayout": "xxxxxxxxxxxbaaaaaaexaihaaaaklaxxcaaaadxxxxxxxxxxxx"
+    },
+    {
+        "name":"test station 2",
+        "gridX": 10,
+        "gridY": 5,
+        "panelLayout": "xxxxxxxxxxxxbaaaaexxahiaaaalkaxcaaaaaadxxxxxxxxxxx"
+    }
+]
